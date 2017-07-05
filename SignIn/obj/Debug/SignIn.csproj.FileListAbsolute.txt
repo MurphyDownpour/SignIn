@@ -1,0 +1,5 @@
+c:\users\p501\documents\visual studio 2017\Projects\SignIn\SignIn\bin\Debug\SignIn.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\SignIn\SignIn\bin\Debug\SignIn.exe
+c:\users\p501\documents\visual studio 2017\Projects\SignIn\SignIn\bin\Debug\SignIn.pdb
+c:\users\p501\documents\visual studio 2017\Projects\SignIn\SignIn\obj\Debug\SignIn.exe
+c:\users\p501\documents\visual studio 2017\Projects\SignIn\SignIn\obj\Debug\SignIn.pdb
